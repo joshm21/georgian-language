@@ -16,10 +16,10 @@
 title: The Georgian Journey
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Take a look inside my attempt at the impossible - going from zero to hero in the Georgian language.
+  An American attempts to go from zero to hero in the Georgian language. Take a peak inside his language learning journey.
 twitter_username: username
 github_username: joshm21
-minimal_mistakes_skin: default
+minimal_mistakes_skin: sunrise
 search: true
 
 # Build settings
@@ -60,30 +60,21 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Take a look inside my attempt at the impossible - going from zero to hero in the Georgian language."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    - label: "YouTube"
+      icon: "fas fa-fw fa-youtube"
+      url: "https://www.youtube.com/@%E1%83%AF%E1%83%90%E1%83%A8%E1%83%98-%E1%83%A5%E1%83%90%E1%83%A0%E1%83%97%E1%83%A3%E1%83%9A%E1%83%90%E1%83%93"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/joshm21"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    - label: "YouTube"
+      icon: "fas fa-fw fa-youtube"
+      url: "https://www.youtube.com/@%E1%83%AF%E1%83%90%E1%83%A8%E1%83%98-%E1%83%A5%E1%83%90%E1%83%A0%E1%83%97%E1%83%A3%E1%83%9A%E1%83%90%E1%83%93"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/joshm21"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
 
 defaults:
   # _posts
@@ -94,7 +85,7 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: true
+      comments: false
       share: true
       related: true
   # _pages
@@ -111,3 +102,10 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-XZPEQ5Y5H5"
+    anonymize_ip: false # default
+
