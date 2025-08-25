@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   An American attempts to go from zero to hero in the Georgian language. Take a peak inside his language learning journey.
 twitter_username: username
 github_username: joshm21
-minimal_mistakes_skin: sunrise
+minimal_mistakes_skin: default
 search: true
 
 # Build settings
@@ -61,7 +61,7 @@ author:
   bio    : "Take a look inside my attempt at the impossible - going from zero to hero in the Georgian language."
   links:
     - label: "YouTube"
-      icon: "fas fa-fw fa-youtube"
+      icon: "fab fa-fw fa-youtube"
       url: "https://www.youtube.com/@%E1%83%AF%E1%83%90%E1%83%A8%E1%83%98-%E1%83%A5%E1%83%90%E1%83%A0%E1%83%97%E1%83%A3%E1%83%9A%E1%83%90%E1%83%93"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -70,7 +70,7 @@ author:
 footer:
   links:
     - label: "YouTube"
-      icon: "fas fa-fw fa-youtube"
+      icon: "fab fa-fw fa-youtube"
       url: "https://www.youtube.com/@%E1%83%AF%E1%83%90%E1%83%A8%E1%83%98-%E1%83%A5%E1%83%90%E1%83%A0%E1%83%97%E1%83%A3%E1%83%9A%E1%83%90%E1%83%93"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
