@@ -1,6 +1,6 @@
 ---
 title: "Simpler TN Markers"
-date: 2028-08-25
+date: 2025-08-25
 tags:
   - verbs
   - grammar

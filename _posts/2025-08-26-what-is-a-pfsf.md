@@ -1,6 +1,6 @@
 ---
 title: "What is a PFSF?"
-date: 2028-08-26
+date: 2025-08-26
 tags:
   - verbs
   - grammar
